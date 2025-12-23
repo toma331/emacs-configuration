@@ -15,7 +15,7 @@
 
 ;; Optional: nicer defaults
 ;;(setq inhibit-startup-screen t)   ; Disable startup screen
-;;(setq initial-scratch-message "") ; Empty scratch buffer
+(setq initial-scratch-message "") ; Empty scratch buffer
 
 ;; Set default tab width to 2
 (setq-default tab-width 2)
