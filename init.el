@@ -17,8 +17,8 @@
 ;;(setq inhibit-startup-screen t)   ; Disable startup screen
 (setq initial-scratch-message "") ; Empty scratch buffer
 
-;; Set default tab width to 2
-(setq-default tab-width 2)
+;; Set default tab width to 4
+(setq-default tab-width 4)
 
 ;; Use spaces instead of tabs
 (setq-default indent-tabs-mode nil)
